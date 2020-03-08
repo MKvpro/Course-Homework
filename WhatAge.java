@@ -27,7 +27,6 @@ public class WhatAge {
                     scanner2.next();
                     System.out.println("Введите год и перед ним знак : - :");
                 }
-                System.out.println("Введите год");
                 year = scanner2.nextInt();
                 for (int i = 0; i > year; ) {
                     i = i - 100;
